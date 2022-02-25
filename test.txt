@@ -1,2 +1,2 @@
 this is a test text.
-add by master.
+add by master and feature1.
