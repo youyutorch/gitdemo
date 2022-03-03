@@ -1,4 +1,5 @@
 this is a test text.
 add by master and feature1.
 add by dev.
+fix bug.
 I am working at dev...
